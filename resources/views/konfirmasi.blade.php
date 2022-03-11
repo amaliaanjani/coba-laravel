@@ -20,20 +20,20 @@
 
 	<div class="main">  	
 			<div class="konfirmasi order">
-                    <font color="black">	<center> <h1>Konfirmasi Order</h1></font> </center>
+                    <font color="black">	<center> <h1>Konfirmasi Order</h1></font> </center><br><br>
                     <form action="/action_page.php">
-  <label for="fname">Nama:</label><br>
-  <input type="text" id="fname" name="fname" value=""><br>
-  <label for="lname">Paket yang dipesan:</label><br>
-  <input type="text" id="lname" name="lname" value=""><br><br>
-  <label for="lname">Email:</label><br>
-  <input type="email" id="lname" name="lname" value=""><br><br>
-  <label for="lname">No.Rekening Bank:</label><br>
-  <input type="number" id="lname" name="lname" value=""><br><br>
-  <label for="lname">Tanggal Transfer:</label><br>
-  <input type="date" id="lname" name="lname" value=""><br><br>
-  <label for="lname">Upload:</label><br>
-  <input type="file" id="lname" name="lname" value=""><br><br>
+  <center><label for="fname">Nama:</label></center><br>
+  <center><input type="text" id="fname" name="fname" value=""></center><br>
+  <center><label for="lname">Paket yang dipesan:</label></center><br>
+  <center><input type="text" id="lname" name="lname" value=""></center><br><br>
+  <center><label for="lname">Email:</label></center><br>
+  <center><input type="email" id="lname" name="lname" value=""></center><br><br>
+  <center><label for="lname">No.Rekening Bank:</label></center><br>
+  <center><input type="number" id="lname" name="lname" value=""></center><br><br>
+  <center><label for="lname">Tanggal Transfer:</label></center><br>
+  <center><input type="date" id="lname" name="lname" value=""></center><br><br>
+  <center><label for="lname">Upload:</label></center><br>
+  <center><input type="file" id="lname" name="lname" value=""></center><br><br>
 </form> 
 					<button>Konfirmasi</button>
 				</form>  

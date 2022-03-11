@@ -1,5 +1,5 @@
 input[type=text], select {
-  width: 100%;
+  width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -24,7 +24,7 @@ input[type=submit]:hover {
 }
 
 input[type=email], select {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -34,7 +34,7 @@ input[type=email], select {
   }
   
   input[type=number], select {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -44,7 +44,7 @@ input[type=email], select {
   }
 
   input[type=date], select {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -54,7 +54,7 @@ input[type=email], select {
   }
 
   input[type=file], select {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
