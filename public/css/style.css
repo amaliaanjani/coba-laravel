@@ -1,11 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+
 input[type=text], select {
-  width: 50%;
+  width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  background: #e0dede;
+  color: #fff;
 }
 
 input[type=submit] {
@@ -24,47 +37,51 @@ input[type=submit]:hover {
 }
 
 input[type=email], select {
-    width: 50%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background: #e0dede;
   }
   
   input[type=number], select {
-    width: 50%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background: #e0dede;
   }
 
   input[type=date], select {
-    width: 50%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background: #e0dede;
   }
 
   input[type=file], select {
-    width: 50%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background: #e0dede;
   }
 
   button {
-    width: 30%;
+    width: 45%;
     height: 40px;
     margin: 10px auto;
     justify-content: center;
@@ -87,5 +104,6 @@ button:hover {
 div {
   border-radius: 5px;
   background-color: #f2f2f2;
-  padding: 20px;
+  padding: 60px;
+  background: linear-gradient(to bottom, #302b63, #24243e);
 }

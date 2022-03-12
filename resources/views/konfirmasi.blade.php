@@ -20,20 +20,20 @@
 
 	<div class="main">  	
 			<div class="konfirmasi order">
-                    <font color="black">	<center> <h1>Konfirmasi Order</h1></font> </center><br><br>
+                    <font color="black"><font face="Tahoma"><font color="white">	<center> <h1>Konfirmasi Order</h1></font> </center><br><br>
                     <form action="/action_page.php">
-  <center><label for="fname">Nama:</label></center><br>
+  <center><font face="Jost"><font color="white"><label for="fname">Nama:</label></font></center><br>
   <center><input type="text" id="fname" name="fname" value=""></center><br>
-  <center><label for="lname">Paket yang dipesan:</label></center><br>
-  <center><input type="text" id="lname" name="lname" value=""></center><br><br>
-  <center><label for="lname">Email:</label></center><br>
-  <center><input type="email" id="lname" name="lname" value=""></center><br><br>
-  <center><label for="lname">No.Rekening Bank:</label></center><br>
-  <center><input type="number" id="lname" name="lname" value=""></center><br><br>
-  <center><label for="lname">Tanggal Transfer:</label></center><br>
-  <center><input type="date" id="lname" name="lname" value=""></center><br><br>
-  <center><label for="lname">Upload:</label></center><br>
-  <center><input type="file" id="lname" name="lname" value=""></center><br><br>
+  <center><font face="Jost"><font color="white"><label for="lname">Paket yang dipesan:</label></font></center><br>
+  <center><input type="text" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="lname">Email:</label></font></center><br>
+  <center><input type="email" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="lname">No.Rekening Bank:</label></font></center><br>
+  <center><input type="number" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="lname">Tanggal Transfer:</label></font></center><br>
+  <center><input type="date" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="lname">Upload:</label></font></center><br>
+  <center><input type="file" id="lname" name="lname" value=""></center><br>
 </form> 
 					<button>Konfirmasi</button>
 				</form>  
