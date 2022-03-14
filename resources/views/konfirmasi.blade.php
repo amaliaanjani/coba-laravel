@@ -26,12 +26,18 @@
   <center><input type="text" id="fname" name="fname" value=""></center><br>
   <center><font face="Jost"><font color="white"><label for="lname">Paket yang dipesan:</label></font></center><br>
   <center><input type="text" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="fname">Nomor Order:</label></font></center><br>
+  <center><input type="number" id="fname" name="fname" value=""></center><br>
   <center><font face="Jost"><font color="white"><label for="lname">Email:</label></font></center><br>
   <center><input type="email" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="fname">Nama Bank Pengirim:</label></font></center><br>
+  <center><input type="text" id="fname" name="fname" value=""></center><br>
   <center><font face="Jost"><font color="white"><label for="lname">No.Rekening Bank:</label></font></center><br>
   <center><input type="number" id="lname" name="lname" value=""></center><br>
   <center><font face="Jost"><font color="white"><label for="lname">Tanggal Transfer:</label></font></center><br>
   <center><input type="date" id="lname" name="lname" value=""></center><br>
+  <center><font face="Jost"><font color="white"><label for="lname">Jumlah Pembayaran:</label></font></center><br>
+  <center><input type="number" id="lname" name="lname" value=""></center><br>
   <center><font face="Jost"><font color="white"><label for="lname">Upload:</label></font></center><br>
   <center><input type="file" id="lname" name="lname" value=""></center><br>
 </form> 
